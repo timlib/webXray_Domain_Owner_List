@@ -8064,5 +8064,20 @@
 		"domains"			 : [
 			"zetaglobal.com"
 		]
+	},
+	{
+		"id"				 : 491,
+		"parent_id"			 : null,
+		"owner_name"		 : "Kaffnet",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "",
+		"privacy_policy_url" : "",
+		"notes"				 : null,
+		"country"			 : "CN",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"kaffnet.com"
+		]
 	}
 ]
